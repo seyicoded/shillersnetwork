@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 5,
+            "activePatchIndex": 10,
             "patches": [
                 {
                     "date": 1636749480541,
@@ -28,6 +28,26 @@
                 {
                     "date": 1636750067675,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -103,9 +103,9 @@\n                         <br />\n                     </div>\n \n                     <div class=\"content\">\n-                        <h3>What if I have little cash for marketing purposes, is there any subscription that can suit my pay? ? </h1>\n+                        <h3>What if I have little cash for marketing purposes, is there any subscription that can suit my pay?</h1>\n                         <p class=\"small\" style=\"font-style: italic;\">Yes, we do have subscription package to suit every budget.</p>\n                         <br />\n                         <br />\n                     </div>\n"
+                },
+                {
+                    "date": 1636751253929,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -21,8 +21,9 @@\n     <body id=\"page-top\">\n         <!-- Navigation-->\n         <nav class=\"navbar navbar-expand-lg navbar-dark fixed-top\" id=\"mainNav\">\n             <div class=\"container\">\n+                <img src=\"/assets/i.jpeg\" />\n                 <a class=\"navbar-brand\" href=\"#page-top\"><img src=\"assets/img/Shillers-Network.svg\" alt=\"...\" /></a>\n                 <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                     Menu\n                     <i class=\"fas fa-bars ms-1\"></i>\n"
+                },
+                {
+                    "date": 1636751280032,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -21,9 +21,9 @@\n     <body id=\"page-top\">\n         <!-- Navigation-->\n         <nav class=\"navbar navbar-expand-lg navbar-dark fixed-top\" id=\"mainNav\">\n             <div class=\"container\">\n-                <img src=\"/assets/i.jpeg\" />\n+                <img src=\"assets/i.jpeg\" />\n                 <a class=\"navbar-brand\" href=\"#page-top\"><img src=\"assets/img/Shillers-Network.svg\" alt=\"...\" /></a>\n                 <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                     Menu\n                     <i class=\"fas fa-bars ms-1\"></i>\n"
+                },
+                {
+                    "date": 1636751303539,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -21,9 +21,9 @@\n     <body id=\"page-top\">\n         <!-- Navigation-->\n         <nav class=\"navbar navbar-expand-lg navbar-dark fixed-top\" id=\"mainNav\">\n             <div class=\"container\">\n-                <img src=\"assets/i.jpeg\" />\n+                <img src=\"assets/i.jpeg\" style=\"width: 16px; height: 16px\"/>\n                 <a class=\"navbar-brand\" href=\"#page-top\"><img src=\"assets/img/Shillers-Network.svg\" alt=\"...\" /></a>\n                 <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                     Menu\n                     <i class=\"fas fa-bars ms-1\"></i>\n"
+                },
+                {
+                    "date": 1636751313073,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -21,9 +21,9 @@\n     <body id=\"page-top\">\n         <!-- Navigation-->\n         <nav class=\"navbar navbar-expand-lg navbar-dark fixed-top\" id=\"mainNav\">\n             <div class=\"container\">\n-                <img src=\"assets/i.jpeg\" style=\"width: 16px; height: 16px\"/>\n+                <img src=\"assets/i.jpeg\" style=\"width: 32px; height: 32px\"/>\n                 <a class=\"navbar-brand\" href=\"#page-top\"><img src=\"assets/img/Shillers-Network.svg\" alt=\"...\" /></a>\n                 <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                     Menu\n                     <i class=\"fas fa-bars ms-1\"></i>\n"
+                },
+                {
+                    "date": 1636751414896,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -21,9 +21,9 @@\n     <body id=\"page-top\">\n         <!-- Navigation-->\n         <nav class=\"navbar navbar-expand-lg navbar-dark fixed-top\" id=\"mainNav\">\n             <div class=\"container\">\n-                <img src=\"assets/i.jpeg\" style=\"width: 32px; height: 32px\"/>\n+                <img src=\"assets/icon.jpeg\" style=\"width: 32px; height: 32px\"/>\n                 <a class=\"navbar-brand\" href=\"#page-top\"><img src=\"assets/img/Shillers-Network.svg\" alt=\"...\" /></a>\n                 <button class=\"navbar-toggler\" type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbarResponsive\" aria-controls=\"navbarResponsive\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                     Menu\n                     <i class=\"fas fa-bars ms-1\"></i>\n"
                 }
             ],
             "date": 1636749480541,

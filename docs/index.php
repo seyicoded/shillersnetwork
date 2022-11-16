@@ -17,10 +17,23 @@
         <link href="css/styles.css" rel="stylesheet" />
         <link href="css/function.css" rel="stylesheet" />
         <style>
+
+            .partner-image{
+                width: 300px; height: 300px; margin-bottom: 8px;
+            }
             
             @media screen and (max-width: 768px) {
                 #txt_autotype{
                     font-size: 10px !important;
+                }
+
+                .partner-image{
+                    width: 100px; height: 100px; margin-bottom: 8px;
+                }
+                .miid{
+                    margin: 0px !important;
+                    margin-left: 0px !important;
+                    margin-right: 0px !important;
                 }
             }
         </style>

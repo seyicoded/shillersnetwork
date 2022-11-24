@@ -111,8 +111,8 @@
                     </div>
                 </div>
 
-                <div class="m-lg-auto">
-                    <h4>Our Other Services</h4>
+                <div class="m-lg-auto text-center">
+                    <h4>Our Services</h4>
                 </div>
                 <div class="text-center row">
                     <?php 

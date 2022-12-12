@@ -56,6 +56,7 @@
                         <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="#proof">Proof</a></li>
                         <li class="nav-item"><a class="nav-link" href="#partners">Partners</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#disclaimer">Disclaimer</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
                     </ul>
                 </div>
@@ -269,6 +270,20 @@
                 <?php
                     include("./features/partner.php");
                 ?>
+            </div>
+
+        </section>
+
+        <!-- Disclaimer -->
+        <section class="page-section bg-white" id="disclaimer">
+            <div class="container">
+                <div class="text-center align-items-center justify-content-center">
+                    <h3 class="section-heading text-uppercase">Disclaimer</h3>
+                </div>
+            </div>
+
+            <div class="text-center row" style="width: 80%; margin-left: 10%;">
+                All Payment are Non-Refundable
             </div>
 
         </section>

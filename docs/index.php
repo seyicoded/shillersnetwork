@@ -283,7 +283,7 @@
             </div>
 
             <div class="text-center row" style="width: 80%; margin-left: 10%;">
-                All Payment are Non-Refundable
+                SHILLERSNETWORK does not offer any money-back guarantees. You recognize and agree that you shall not be entitled to a refund for any of our service purchased under any circumstances.
             </div>
 
         </section>

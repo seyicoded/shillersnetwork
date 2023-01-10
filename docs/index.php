@@ -71,7 +71,7 @@
                 id="txt_autotype"
                 data-period="2000"
                 data-rotate='[ "Where All Your Shills Becomes Reality.", "The Only Shiller You Need.", "Affordable.", "Satifactory.", "Contact Us Today!" ]'
-                >It's Nice To Meet You</div>
+                >Make your token hit 10x to 1000x with our marketing plan.</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
             </div>
         </header>

@@ -262,7 +262,7 @@ Community Website: https://godwars.io https://t.me/GodWars_Dev
 
     $list = [
         ["name" => "MASHIDA", "link" => "https://t.me/+FVoFZn6BAJVlNWFl" ],
-        ["name" => "SPORTINFINITY", "link" => "https://t.me/+MrafuA8RPx00M2M8" ],
+        ["name" => "SPORTINFINITY", "link" => "https://t.me/+MrafuA8RPx00M2M8", "tag" => "@Sportinginityy" ],
         ["name" => "Dogeum NFTs", "link" => "https://t.me/+64Z-zINbWCkyNGU0" ],
 
         ["name" => "SANTA MESSI", "link" => "https://t.me/+M8zp0zbO9Do3ZTc0" ],
@@ -313,6 +313,7 @@ Community Website: https://godwars.io https://t.me/GodWars_Dev
                     
                     <h3 style='color: rgba(0, 0, 0, 0.54);'>".$item['name']."</h3>
                     <a href='".$item['link']."'>link</a>
+                    <div>".(isset($item['tag']) ? $item['tag'] : '' )."</div>
                 </div>
             </div>
         ";

@@ -70,7 +70,7 @@
                 class="masthead-heading text-uppercase txt-rotate"
                 id="txt_autotype"
                 data-period="2000"
-                data-rotate='[ "Where All Your Shills Becomes Reality.", "The Only Shiller You Need.", "Affordable.", "Satifactory.", "Contact Us Today!" ]'
+                data-rotate='[ "Make your token hit 10x to 1000x with our marketing plan.", "Where All Your Shills Becomes Reality.", "The Only Shiller You Need.", "Affordable.", "Satifactory.", "Contact Us Today!" ]'
                 >Make your token hit 10x to 1000x with our marketing plan.</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">Tell Me More</a>
             </div>
@@ -356,13 +356,14 @@
         <section class="page-section" id="contact">
             <div class="container">
                 <div class="text-center">
+                    <h2 class="section-heading text-uppercase">For Inquiries and Booking</h2>
                     <h2 class="section-heading text-uppercase">Contact Us</h2>
                     <h3 class="section-subheading text-muted">Follow the link below to reach us.</h3>
 
                     <p>
-                        <a href="https://t.me/shillersnet" target="_blank">Telegram</a>
+                        <a style="font-size: 17px !important;" href="https://t.me/shillersnet" target="_blank">Telegram</a>
                         <span class="w3-green" style="color: green;">•</span>
-                        <a href="mailto:info@shillersnetwork.com" target="_blank">Email</a>
+                        <a style="font-size: 17px !important;" href="mailto:info@shillersnetwork.com" target="_blank">Email</a>
                     </p>
                 </div>
                 

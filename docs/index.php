@@ -395,6 +395,8 @@
                     <p>
                         <a style="font-size: 17px !important;" href="https://t.me/shillersnet" target="_blank">Telegram</a>
                         <span class="w3-green" style="color: green;">•</span>
+                        <a style="font-size: 17px !important;" href="https://twitter.com/Shillernet" target="_blank">Twitter</a>
+                        <span class="w3-green" style="color: green;">•</span>
                         <a style="font-size: 17px !important;" href="mailto:info@shillersnetwork.com" target="_blank">Email</a>
                     </p>
                 </div>
